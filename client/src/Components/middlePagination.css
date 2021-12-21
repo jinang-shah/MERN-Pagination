@@ -1,0 +1,6 @@
+.middlePagination button {
+  margin-right: 0.5rem;
+  cursor: pointer;
+  padding: 7px 15px;
+  color: #333;
+}
